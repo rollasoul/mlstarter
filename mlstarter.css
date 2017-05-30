@@ -41,10 +41,7 @@ p {
 /* unvisited link */
 a:link {
     color: grey;
-}
-
-a:bottom {
-  font-family:"Questrial", Arial, sans-serif;
+    font-family: "Questrial", Arial, sans-serif;
 }
 
 /* visited link */
