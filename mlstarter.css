@@ -43,6 +43,10 @@ a:link {
     color: grey;
 }
 
+a:bottom {
+  font-family:"Questrial", Arial, sans-serif;
+}
+
 /* visited link */
 a:visited {
     color: grey;
