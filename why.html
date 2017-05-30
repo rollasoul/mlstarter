@@ -15,20 +15,23 @@ and ultimately about ourselves.</p>
 <br>
 <br>
 
+<a id="prevLink" href='index.html'><< Prev</a> 
+<a id="nextLink" href='howh.html'>Next >></a>
+
 <script>
-function checkKey(e) {
-
-    e = e || window.event;
-
-    if (e.keyCode == '37') {
-       window.location.assign = "https://rollasoul.github.io/mlstarter/"
-    }
-    else if (e.keyCode == '39') {
-       window.location.assign = "https://rollasoul.github.io/mlstarter/howh.html";
-    }
-
-}
-checkKey();
+document.addEventListener("keyup",function(e){
+   var key = e.which||e.keyCode;
+   switch(key){
+      //left arrow
+      case 37:
+         document.getElementById("prevLink").click();
+      break;
+      //right arrow
+      case 39:
+         document.getElementById("nextLink").click();
+      break;
+   }
+});
 </script>
 
 <p><a href="howh.html" target="_self"> >> </a></p>
