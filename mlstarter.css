@@ -30,3 +30,18 @@ p {
     font-size:0.875em;
     margin-left: 20px;
 }
+
+/* unvisited link */
+a:link {
+    color: grey;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
