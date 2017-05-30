@@ -3,6 +3,13 @@ body {
     font-size: 100%;
 }
 
+img {
+  margin-left: 20px;
+}
+
+iframe {
+  margin-left: 20px;
+}
 h1 {
     color: black;
     font-family: "Questrial", Arial, sans-serif; 
