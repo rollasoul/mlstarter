@@ -1,11 +1,6 @@
 body {
     background-color: none;
     font-size: 100%;
-    background-image: url("camo.gif");
-    background-position: 80% 20%;    
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 300px 300px;;
 }
 
 img {
