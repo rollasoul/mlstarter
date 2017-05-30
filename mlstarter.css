@@ -41,7 +41,6 @@ p {
 /* unvisited link */
 a:link {
     color: grey;
-    font-family: "Questrial", Arial, sans-serif;
 }
 
 /* visited link */
