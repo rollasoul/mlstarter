@@ -2,6 +2,8 @@ body {
     background-color: none;
     font-size: 100%;
     background-image: url("camo.gif");
+    background-position: 80% 20%;
+    background-size: 50%;
 }
 
 img {
