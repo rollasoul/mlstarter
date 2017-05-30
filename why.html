@@ -15,29 +15,21 @@ and ultimately about ourselves.</p>
 <br>
 <br>
 
+<input onkeypress="checkKey(e)">
+
 <script>
 function checkKey(e) {
 
     e = e || window.event;
 
     if (e.keyCode == '37') {
-       // left arrow
+       window.location.assign = "https://rollasoul.github.io/mlstarter/"
     }
     else if (e.keyCode == '39') {
        window.location.assign = "https://rollasoul.github.io/mlstarter/howh.html";
     }
 
 }
-checkKey(e);
-</script>
-
-<p id="demo"></p>
-
-<script>
-function myFunction(a, b) {
-    return a * b;
-}
-document.getElementById("demo").innerHTML = myFunction(4, 3);
 </script>
 
 <p><a href="howh.html" target="_self"> >> </a></p>
