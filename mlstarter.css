@@ -1,9 +1,32 @@
 body {
     background-color: none;
+    font-size: 100%;
 }
 
 h1 {
     color: black;
     font-family: "Futura Medium", Arial, sans-serif; 
+    font-size:2.5em;
+    margin-left: 20px;
+}
+
+h2 {
+    color: black;
+    font-family: "Futura Medium", Arial, sans-serif; 
+    font-size:1.875em;
+    margin-left: 20px;
+}
+
+h3 {
+    color: black;
+    font-family: "Futura Medium", Times, serif; 
+    font-size:0.875em;
+    margin-left: 20px;
+}
+
+p {
+    color: black;
+    font-family: "Cutive Mono", Arial, sans-serif; 
+    font-size:0.875em;
     margin-left: 20px;
 }
