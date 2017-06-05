@@ -27,15 +27,17 @@ h2 {
 h3 {
     color: black;
     font-family: "Questrial", Arial, serif; 
-    font-size:0.875em;
+    font-size:1.0em;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 p {
     color: black;
     font-family: "Cutive Mono", Arial, sans-serif; 
-    font-size:0.875em;
+    font-size:1.0em;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* unvisited link */
