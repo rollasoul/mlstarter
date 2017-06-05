@@ -13,21 +13,21 @@ iframe {
 h1 {
     color: black;
     font-family: "Questrial", Arial, sans-serif; 
-    font-size:2.5em;
+    font-size:3.5em;
     margin-left: 20px;
 }
 
 h2 {
     color: black;
     font-family: "Questrial", Arial, sans-serif; 
-    font-size:1.875em;
+    font-size:2.875em;
     margin-left: 20px;
 }
 
 h3 {
     color: black;
     font-family: "Questrial", Arial, serif; 
-    font-size:1.0em;
+    font-size:2.0em;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -35,7 +35,7 @@ h3 {
 p {
     color: black;
     font-family: "Cutive Mono", Arial, sans-serif; 
-    font-size:1.0em;
+    font-size:2.0em;
     margin-left: 20px;
     margin-right: 20px;
 }
