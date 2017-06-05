@@ -3,12 +3,22 @@ body {
     font-size: 100%;
 }
 
-img {
-  margin-left: 20px;
+.center {
+    text-align: center;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
 }
 
 iframe {
   margin-left: 20px;
+}
+
+iframe.center {
+    display: block;
+    margin: 0 auto;
 }
 h1 {
     color: black;
